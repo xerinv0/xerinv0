@@ -103,15 +103,10 @@ A **Linux container management panel** built around LXD, designed to provide a m
 * Docker/self-hosting workflows
 * Go tooling for system integration
 
-### 🎮 Minecraft Launcher
+### 🎮 Minecraft Launcher Core
 
-A **native Minecraft launcher experiment** focused on building a polished desktop experience rather than another Electron-style web wrapper.
-
-* Rust
-* Slint
-* Native desktop UI
-* Minecraft instance management
-* Exploring launcher architecture and game integration
+A Minecraft launcher's core package in go
+[Read More](https://github.com/urixen-org/minecraft-launcher-core)
 
 ## 📊 GitHub
 
