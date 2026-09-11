@@ -1,73 +1,116 @@
-<!-- GitHub Profile README.md -->
+# Hey, I'm Nehxurai 👋
+
+**Software Developer & System Builder**
+
+I build web applications, backend systems, developer tools, and infrastructure — usually with a strong focus on performance, scalability, and clean architecture.
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  Building software from the frontend all the way to Linux.  │
+└──────────────────────────────────────────────────────────────┘
+```
+
+## 🧑‍💻 About Me
+
+* 🔧 Building **web apps, backend systems & infrastructure**
+* ⚡ TypeScript-first, with a growing preference for **Go**
+* 🖥️ Interested in **Linux, servers, automation & system architecture**
+* 🌐 Building with **SvelteKit, Tailwind, REST APIs & databases**
+* 🐳 Comfortable with **Docker and self-hosted infrastructure**
+* 🧠 Constantly experimenting with **AI/ML and developer tooling**
+* 🚀 I care about software that is **fast, maintainable and actually useful**
+
+## 🛠️ Tech Stack
+
+### Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=2500&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Welcome+to+Nehxurai;++Developer+%7C+Back-End+Enthusiast;+Coder++;Passionate+Learner+%26+Innovator" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=ts,js,go,python,php,html,css,bash" />
+</p>
+
+### Frameworks & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=svelte,tailwind,vite,docker,git,linux,mysql" />
+</p>
+
+### Currently Working With
+
+```text
+TypeScript     ████████████████████
+Go             ████████████████░░░░
+SvelteKit      ██████████████████░░
+Docker         ███████████████░░░░░
+Linux          █████████████████░░░
+SQL            ███████████████░░░░░
+AI / ML        ███████████░░░░░░░░░
+```
+
+## 🚀 What I Build
+
+### 🌐 Web Applications
+
+Modern full-stack applications with:
+
+* SvelteKit
+* TypeScript
+* Tailwind CSS
+* REST APIs
+* MySQL
+* Drizzle ORM
+* Authentication
+* Object storage
+
+### ⚙️ Backend & Infrastructure
+
+I enjoy going deeper than the UI:
+
+* Linux services
+* Server management
+* Docker
+* Automation
+* API design
+* Background workers
+* System daemons
+* Self-hosted infrastructure
+
+### 🤖 AI / ML
+
+I also experiment with machine learning from the ground up — including training small transformer models and exploring how AI systems actually work under the hood.
+
+## 📌 Featured Projects
+
+> 🚧 More projects coming as I turn experiments into polished open-source software.
+
+| Project                | Description                                                  |
+| ---------------------- | ------------------------------------------------------------ |
+| 🖥️ **PlyWP**          | Self-hosted WordPress hosting infrastructure                 |
+| 🎮 **Minecraft Tools** | Experiments around launchers, servers and management systems |
+| 🤖 **AI Experiments**  | From-scratch ML and transformer experiments                  |
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xerinv0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xerinv0&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🌐 Find Me
+
+<p align="center">
+  <a href="https://github.com/xerinv0">
+    <img src="https://img.shields.io/badge/GitHub-xerinv0-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://nehxurai.com">
+    <img src="https://img.shields.io/badge/Website-nehxurai.com-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:github@nehxurai.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
-<!--
-<p align="center">
-  <img src="https://github.com/Samir717le/Samir717le/blob/main/banner.png" alt="Profile Banner" width="100%"/>
-</p>-->
-
----
-
-### 👨‍💻 About Me
-
-Hi, I'm **Samir**! A web developer with expertise in HTML, CSS, JavaScript, Python, and backend technologies like Node.js and PHP. Passionate about building dynamic web apps and exploring server management and automation.
-
-- 🔧 **Backend Development & Automation**
-- 🌐 **Tech:** JavaScript, Node.js, PHP, Python, Bash Scripting, Git, Typescript
-- 🚀 **Learning:** Advanced JS, APIs, Cloud Automation
-- 📬 **Email:** [github@nehxurai.com](mailto:github@nehxurai.com)
-- 🌐 **Website:** [Samir717le](https://nehxurai.com)
-
----
-
-### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-777BB4?style=for-the-badge&logo=Typescript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xerinv0&show_icons=true&theme=tokyonight&count_private=true&hide_title=true" height="150em" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xerinv0&theme=tokyonight&hide_border=true" height="150em" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xerinv0&theme=onestar&no-bg=true&row=1&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
----
-
-### 🌌 SVG Fun
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=20&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=500&lines=Thanks+for+Stopping+By!" alt="Thanks Animation" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samir717le"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/Samir717le"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://letsedit.cloudns.be"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="mailto:samir717le@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <sub>Build it. Break it. Understand it. Build it better.</sub>
 </p>
