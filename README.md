@@ -76,17 +76,42 @@ I enjoy going deeper than the UI:
 
 ### 🤖 AI / ML
 
-I also experiment with machine learning from the ground up — including training small transformer models and exploring how AI systems actually work under the hood.
+I experiment with machine learning and AI systems, focusing on understanding how the technology works and integrating it into useful software.
 
 ## 📌 Featured Projects
 
-> 🚧 More projects coming as I turn experiments into polished open-source software.
+### 🖥️ PlyWP
 
-| Project                | Description                                                  |
-| ---------------------- | ------------------------------------------------------------ |
-| 🖥️ **PlyWP**          | Self-hosted WordPress hosting infrastructure                 |
-| 🎮 **Minecraft Tools** | Experiments around launchers, servers and management systems |
-| 🤖 **AI Experiments**  | From-scratch ML and transformer experiments                  |
+A self-hosted **WordPress hosting platform** focused on managing WordPress sites and the infrastructure behind them.
+
+* SvelteKit dashboard
+* TypeScript
+* Drizzle + MySQL
+* Better Auth
+* Go-based system daemon
+* Linux server management
+* Automated WordPress infrastructure
+
+### 🐧 Rosmium / next-lxd
+
+A **Linux container management panel** built around LXD, designed to provide a modern web interface for managing containers and infrastructure.
+
+* SvelteKit
+* TypeScript
+* LXD
+* MySQL
+* Docker/self-hosting workflows
+* Go tooling for system integration
+
+### 🎮 Minecraft Launcher
+
+A **native Minecraft launcher experiment** focused on building a polished desktop experience rather than another Electron-style web wrapper.
+
+* Rust
+* Slint
+* Native desktop UI
+* Minecraft instance management
+* Exploring launcher architecture and game integration
 
 ## 📊 GitHub
 
